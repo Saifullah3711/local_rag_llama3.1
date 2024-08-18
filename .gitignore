@@ -1,0 +1,4 @@
+*.pdf
+extra_documents
+chroma_db
+test_db.py
